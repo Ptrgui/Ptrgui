@@ -1,4 +1,4 @@
-![Header](./your-he![github-header-image](https://user-images.githubusercontent.com/113725968/191136216-2422439c-f098-4134-b121-1d3c6caf3cef.png)
+![github-header-image](https://user-images.githubusercontent.com/113725968/191136216-2422439c-f098-4134-b121-1d3c6caf3cef.png)
 
 <!--
 **Ptrgui/ptrgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

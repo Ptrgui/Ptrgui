@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <details>
-  <summary><b>Programming Languages and Platform Tools used by me</b></summary>
+  <summary><b>[Click here to open] Programming Languages and Platform Tools used by me</b></summary>
   <br/>
+  <p> Click on the icons to take you to their webpage. </p>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -63,5 +65,8 @@ Here are some ideas to get you started:
 
 
 ### Find me
-<p align="left">
-<a href="https://linkedin.com/in/pedro-h-4a251766/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="40" width="40" /></a>
+<div>
+  <a href="mailto:ptrgui@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/pedro-h-4a251766/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/Ptrgui" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+</div

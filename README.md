@@ -15,11 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- I'm currently learning... :de:-German, :it:-Italian and :fr:-French.
+
+- I'm currently collaborating on... [Mozilla](https://www.mozilla.org/en-US/firefox/features/translate/)'s Project.
+
+- I'm currently working on... Finishing up bits and parts of project's Portfolio.
+
+- I'm currently working with... Python, SQL, PowerBI in Data Analysis.
+<br>
+<br>
+<br>
+
 
 <details>
   <summary><b>[Click here to open] Programming Languages and Platform Tools used by me</b></summary>
   <br/>
-  <p> Click on the icons to take you to their webpage. </p>
+  <p> Click on the icons to take you to their respective Webpage. </p>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
